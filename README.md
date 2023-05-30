@@ -1,1 +1,1 @@
-(https://github.com/emiraksoy0/CoffeAddict-.git)
+https://emiraksoy0.github.io/CoffeAddict-/
